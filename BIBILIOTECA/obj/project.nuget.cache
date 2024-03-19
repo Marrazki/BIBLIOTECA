@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+skXov2Sp6XGtjp1PS+T957qER8lja3mAwzww6Jmg0iNjXBK++iy1ar+GTX/VzHnDH6qEOFv5PF6xPtlAbh7pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Unai\\OneDrive - EUNEIZ\\Workspace\\BIBILIOTECA\\BIBILIOTECA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Unai\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Unai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Unai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
